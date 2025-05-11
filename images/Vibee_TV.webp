@@ -36,11 +36,11 @@
     <link rel="shortcut icon" href="/assets/img/ui/favicon.png" type="image/x-icon" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css">
 	<link href="/assets/css/infinitta.min.css?" rel="stylesheet">
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" type="830bfce97f66d0502d5118d7-text/javascript"></script>
 		
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1640743-18" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
-<script type="7d92bf3828c60f3ad9f1e1c6-text/javascript">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1640743-18" type="830bfce97f66d0502d5118d7-text/javascript"></script>
+<script type="830bfce97f66d0502d5118d7-text/javascript">
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
@@ -48,9 +48,9 @@
   gtag('config', 'UA-1640743-18');
 </script>	
 	<? if(LANG=='pt'){?>
-	<script async src="https://fundingchoicesmessages.google.com/i/pub-8134863405909594?ers=1" nonce="diLwcyrDdMRIrtO4j8nZeA" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script><script nonce="diLwcyrDdMRIrtO4j8nZeA" type="7d92bf3828c60f3ad9f1e1c6-text/javascript">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+	<script async src="https://fundingchoicesmessages.google.com/i/pub-8134863405909594?ers=1" nonce="diLwcyrDdMRIrtO4j8nZeA" type="830bfce97f66d0502d5118d7-text/javascript"></script><script nonce="diLwcyrDdMRIrtO4j8nZeA" type="830bfce97f66d0502d5118d7-text/javascript">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
 	<? }?>
-	<script type="7d92bf3828c60f3ad9f1e1c6-text/javascript">
+	<script type="830bfce97f66d0502d5118d7-text/javascript">
         var urlSite = "https://www.cxtv.com.br";
         var RunFunctions = [
             function () { console.log("ExecutarFuncoes OK"); }
@@ -61,9 +61,9 @@
 
 <body data-spy="scroll" data-target=".navbar" class="page-img/Tvs/Logo/webp-m/5da86c21d6a79912e3f698bff6234a2d.webp">
 	
-	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8134863405909594" crossorigin="anonymous" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>	
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8134863405909594" crossorigin="anonymous" type="830bfce97f66d0502d5118d7-text/javascript"></script>	
 	<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_PT/sdk.js#xfbml=1&version=v10.0&appId=1550659905229085&autoLogAppEvents=1" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_PT/sdk.js#xfbml=1&version=v10.0&appId=1550659905229085&autoLogAppEvents=1" type="830bfce97f66d0502d5118d7-text/javascript"></script>
 
     <!--MODAL DINAMICA -->
     <div class="modal fade" id="modalDinamica" tabindex="-1" role="dialog" aria-labelledby="modalDinamica" aria-hidden="true">
@@ -86,7 +86,7 @@
      style="display:inline-block;width:860px;height:110px"
      data-ad-client="ca-pub-8134863405909594"
      data-ad-slot="6834546267"></ins>
-<script type="7d92bf3828c60f3ad9f1e1c6-text/javascript">
+<script type="830bfce97f66d0502d5118d7-text/javascript">
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>                </div>
 
@@ -226,7 +226,7 @@
 </header>
 
 
-<script type="7d92bf3828c60f3ad9f1e1c6-text/javascript">
+<script type="830bfce97f66d0502d5118d7-text/javascript">
 
 RunFunctions.push(function(){
     
@@ -305,7 +305,7 @@ RunFunctions.push(function(){
  data-ad-slot="4267675661"
  data-ad-format="auto"
  data-full-width-responsive="true"></ins>
-<script type="7d92bf3828c60f3ad9f1e1c6-text/javascript">
+<script type="830bfce97f66d0502d5118d7-text/javascript">
  (adsbygoogle = window.adsbygoogle || []).push({});
 </script>    </div>
     
@@ -356,20 +356,20 @@ RunFunctions.push(function(){
     </div>
 </footer>	
     <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" rel="stylesheet"/>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
-    <script async src="/assets/js/infinitta.min.js?" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="830bfce97f66d0502d5118d7-text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="830bfce97f66d0502d5118d7-text/javascript"></script>
+    <script async src="/assets/js/infinitta.min.js?" type="830bfce97f66d0502d5118d7-text/javascript"></script>
     
     <!-- PLUGINS -->
-    <script src="/assets/plugins/jquery.maskedinput.min.js" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
+    <script src="/assets/plugins/jquery.maskedinput.min.js" type="830bfce97f66d0502d5118d7-text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" type="830bfce97f66d0502d5118d7-text/javascript"></script>
     <link rel="stylesheet" href="/assets/plugins/validation/css/formValidation.min.css"/>
-    <script src="/assets/plugins/validation/js/formValidation.min.js" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
-    <script src="/assets/plugins/validation/js/framework/bootstrap.min.js" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
-	<script src="/assets/plugins/validation/js/language/pt_BR.js" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
-    <script src="/assets/plugins/jquery.hc-sticky.min.js" type="7d92bf3828c60f3ad9f1e1c6-text/javascript"></script>
+    <script src="/assets/plugins/validation/js/formValidation.min.js" type="830bfce97f66d0502d5118d7-text/javascript"></script>
+    <script src="/assets/plugins/validation/js/framework/bootstrap.min.js" type="830bfce97f66d0502d5118d7-text/javascript"></script>
+	<script src="/assets/plugins/validation/js/language/pt_BR.js" type="830bfce97f66d0502d5118d7-text/javascript"></script>
+    <script src="/assets/plugins/jquery.hc-sticky.min.js" type="830bfce97f66d0502d5118d7-text/javascript"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
 	
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="7d92bf3828c60f3ad9f1e1c6-|49" defer></script></body>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="830bfce97f66d0502d5118d7-|49" defer></script></body>
 
 </html>
